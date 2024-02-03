@@ -4,7 +4,8 @@ A simple traffic light system controlled by UNO R3 Controller Board and Arduino 
 ### Components used:
  - UNO R3 Controller Board⚡
  - Button 
- - 1 digit 7-segment Display 
+ - 1 digit 7-segment Display
+ - 220 ohms resistor x 3
  - Red, Yellow, Green LED 🔴🟡🟢
 
 
@@ -15,3 +16,10 @@ This system simulates a traffic intersection with pedestrian crossing. Traffic l
 ## Images
 
 <img style="center" src="./image/green_light.jpg" width="300px"/> <img style="center" src="./image/red_countdown.jpg" width="300px"/> <img style="center" src="./image/closeup.jpg" width="300px"/>
+
+## Skills I learned
+- C++
+- Designing and building the system
+- Programming with Arduino IDE
+- Breadboarding skills
+- UNO R3 Controller Board
